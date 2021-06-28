@@ -4,7 +4,7 @@
 This is a programming exercise that uses React to build an interactive "To Do List" app. Specifically, this app allows the user to add and remove "to do" tasks from the list.
 
 ## Installation / Usage
-Download all of the files within this repository, and load the index.html file in a web browser. This app can run while hosted either locally or on a remote web server. For a live preview, you can run the index.html file in this repo, directly, by visting this URL: https://dcdiaz.github.io/to-do-list/index.html
+Download all of the files within this repository, and load the index.html file in a web browser. This app can run while hosted either locally or on a remote web server. For a live preview, you can run the index.html file in this repo, directly, by visting this URL: https://dcdiaz.github.io/to-do-list/
 
 ## Roadmap
 - Add a dynamic calendar and clock in the right side if the header.
